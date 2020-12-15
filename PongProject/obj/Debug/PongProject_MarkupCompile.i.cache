@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\PongProject-master\PongProject\obj\Debug\
+D:\PongProject\PongProject\obj\Debug\
 PongProject
 none
 false
 DEBUG;TRACE
-D:\PongProject-master\PongProject\App.xaml
-2-100771021
+D:\PongProject\PongProject\App.xaml
+31509222553
 
-91282710675
+10291658325
 13738642453
-MainWindow.xaml;StartWindow.xaml;
+Instruction.xaml;MainWindow.xaml;StartWindow.xaml;
 
 True
 

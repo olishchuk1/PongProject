@@ -1,0 +1,14 @@
+﻿<Window x:Class="PongProject.Instruction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PongProject"
+        mc:Ignorable="d"
+        Title="Instruction" Height="450" Width="800" Background="Black">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="323,59,340.6,0" TextWrapping="Wrap" Text="Instructions" VerticalAlignment="Top" Foreground="White" Height="55" Width="130" FontSize="25"/>
+        <TextBlock HorizontalAlignment="Left" Height="193" Margin="93,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="615" Foreground="White"><Run Text="lLorem ipsum dolor sit amet, ea purto deserunt sadipscing usu, te nibh prima vel. Te wisi deserunt theophrastus mel, ea mea assum aperiri persius. Mei ut audiam impetus sapientem, usu fugit feugiat erroribus at. Malorum bonorum ut eum. An quot detraxit eum, ea vel sale putent maluisset."/><LineBreak/><Run/><LineBreak/><Run Text="Nostro bonorum eum cu. Te ullum pertinacia deterruisset mel, duis autem temporibus ad eum. Cum in sale summo ceteros, et has modus reque assueverit, ex mel cibo deserunt prodesset. Ea per atqui omittam sententiae. Utamur denique et qui, ius ea soluta cetero."/><LineBreak/><Run/><LineBreak/><Run Text="Te assentior scripserit eam, ad mea iudico sapientem maiestatis. Altera aperiam pri eu, in libris imperdiet per, labores partiendo accommodare mel et. Verear offendit gubergren cu qui, has elit corpora interesset ad, at nibh qualisque cum. Noluisse mediocrem tincidunt ei nam, ne eam decore tamquam. Nec an solet accusata definitionem. Ut per scripta expetendis."/><LineBreak/><Run/><LineBreak/><Run Text="Unum incorrupte et per, eos an dico fugit constituam, his cibo invidunt antiopam ex. Aperiam dignissim similique sed ei, usu cu salutatus gloriatur ullamcorper, omnis dolorem vim no. Usu tractatos ocurreret interpretaris et. An epicurei vulputate persecuti pro, has etiam soleat in. Mei nisl everti repudiare no, eos at dicant accommodare. No definiebas conclusionemque per, ut duo quis aliquando posidonium, ut ius graeci doctus."/><LineBreak/><Run/><LineBreak/><Run Text="Mei sonet placerat consectetuer ea, invidunt cotidieque ex cum, epicuri maiestatis voluptatum nam an. Nonumy detraxit consequuntur ea usu, duo exerci aliquid no. Quod veri invenire his in, legimus pertinax vis ad. Pro impedit interesset ex. Iudico accusata quaestio no eum, an his zril dissentias."/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Window>

@@ -27,7 +27,21 @@ namespace PongProject
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            MainWindow game = new MainWindow();
+            game.Show();
 
+            
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Instruction inst = new Instruction();
+            inst.Show();
         }
     }
 }
