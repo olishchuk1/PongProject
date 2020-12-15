@@ -1,0 +1,17 @@
+D:\PongProject-master\PongProject\bin\Debug\PongProject.exe.config
+D:\PongProject-master\PongProject\bin\Debug\PongProject.exe
+D:\PongProject-master\PongProject\bin\Debug\PongProject.pdb
+D:\PongProject-master\PongProject\obj\Debug\PongProject.csprojAssemblyReference.cache
+D:\PongProject-master\PongProject\obj\Debug\MainWindow.baml
+D:\PongProject-master\PongProject\obj\Debug\MainWindow.g.cs
+D:\PongProject-master\PongProject\obj\Debug\App.g.cs
+D:\PongProject-master\PongProject\obj\Debug\PongProject_MarkupCompile.cache
+D:\PongProject-master\PongProject\obj\Debug\PongProject.g.resources
+D:\PongProject-master\PongProject\obj\Debug\PongProject.Properties.Resources.resources
+D:\PongProject-master\PongProject\obj\Debug\PongProject.csproj.GenerateResource.cache
+D:\PongProject-master\PongProject\obj\Debug\PongProject.csproj.CoreCompileInputs.cache
+D:\PongProject-master\PongProject\obj\Debug\PongProject.exe
+D:\PongProject-master\PongProject\obj\Debug\PongProject.pdb
+D:\PongProject-master\PongProject\obj\Debug\StartWindow.g.cs
+D:\PongProject-master\PongProject\obj\Debug\PongProject_MarkupCompile.lref
+D:\PongProject-master\PongProject\obj\Debug\StartWindow.baml
